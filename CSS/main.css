@@ -1,0 +1,25 @@
+.log{
+    height: 600px;
+    width: 300px;
+    border-radius: 5%;
+    background-color: rgb(29, 32, 49);
+    margin-left: 40%;
+    margin-top: 10%;
+    color: greenyellow;
+    text-align: center;
+}
+
+.input-el{
+    width: 90%;
+    height: 35px;
+    margin-top: 10px;
+    padding-left: 15px;
+    border-radius: 20px;
+}
+
+button{
+    width: 95% !important;
+    background-color: greenyellow;
+    color: black;
+}
+
